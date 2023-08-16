@@ -1,6 +1,0 @@
-[
-null,
-{"id":1,"battlerName":"Actor3_7","characterIndex":6,"characterName":"Actor3","classId":1,"equips":[1,27,63,4,0],"faceIndex":6,"faceName":"Actor3","traits":[],"initialLevel":99,"maxLevel":99,"name":"Reid","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"Actor1_1","characterIndex":6,"characterName":"Evil","classId":2,"equips":[11,31,57,13,85],"faceIndex":6,"faceName":"Evil","traits":[],"initialLevel":99,"maxLevel":99,"name":"your","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Actor1_4","characterIndex":4,"characterName":"Evil","classId":6,"equips":[4,0,0,0,0],"faceIndex":4,"faceName":"Evil","traits":[],"initialLevel":1,"maxLevel":99,"name":"mom","nickname":"","note":"","profile":""}
-]
